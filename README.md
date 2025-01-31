@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MOODYTVYT
-- 👀 I’m interested in python and gaming
-- 🌱 I’m currently learning sql & js
+- 👀 I’m interested in Golang, python, gaming
+- 🌱 I’m currently learning Golang,psql,Mysql
 - ⚡ Fun fact: i love sleep so much
 
 <!---
